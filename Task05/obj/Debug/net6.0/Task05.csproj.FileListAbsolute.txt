@@ -1,0 +1,15 @@
+C:\Users\User\HW8_CSharp\Task05\bin\Debug\net6.0\Task05.exe
+C:\Users\User\HW8_CSharp\Task05\bin\Debug\net6.0\Task05.deps.json
+C:\Users\User\HW8_CSharp\Task05\bin\Debug\net6.0\Task05.runtimeconfig.json
+C:\Users\User\HW8_CSharp\Task05\bin\Debug\net6.0\Task05.dll
+C:\Users\User\HW8_CSharp\Task05\bin\Debug\net6.0\Task05.pdb
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.csproj.AssemblyReference.cache
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.AssemblyInfoInputs.cache
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.AssemblyInfo.cs
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.csproj.CoreCompileInputs.cache
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.dll
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\refint\Task05.dll
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.pdb
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\Task05.genruntimeconfig.cache
+C:\Users\User\HW8_CSharp\Task05\obj\Debug\net6.0\ref\Task05.dll
